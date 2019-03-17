@@ -1,8 +1,8 @@
-# PIVX-Wallet
+# Wolfcoin Wallet
 
 ![alt text](https://github.com/PIVX-Project/PIVX-Android/blob/master/banner/Feature%20Image.jpg)
 
-Welcome to the PIVX mobile wallet for android!
+Welcome to the Wolfcoin mobile wallet for android!
 
 
 This project contains several sub-projects:
