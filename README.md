@@ -1,7 +1,5 @@
 # Wolfcoin Wallet
 
-![alt text](https://github.com/PIVX-Project/PIVX-Android/blob/master/banner/Feature%20Image.jpg)
-
 Welcome to the Wolfcoin mobile wallet for android!
 
 
@@ -20,11 +18,11 @@ gradle clean build
 
 ### Cloning repository.
 
-Use git clone --recurse-submodules https://github.com/<PIVX or furszy>/PIVX-Android.git
+Use git clone --recurse-submodules https://github.com/WolfpackBOT/Wolfcoin-PIVX-Android.git
   
 #### or
 
-Use git clone https://github.com/<PIVX or furszy>/PIVX-Android.git
+Use git clone https://github.com/WolfpackBOT/Wolfcoin-PIVX-Android.git
   
 git submodule init
 
